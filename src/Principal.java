@@ -1,8 +1,6 @@
 import java.util.Collections;
 import java.util.Scanner;
 
-import static java.util.Collections.sort;
-
 public class Principal {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
